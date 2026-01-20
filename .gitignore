@@ -1,0 +1,12 @@
+# --- Backend (Django) ---
+__pycache__/
+*.py[cod]
+db.sqlite3
+.env
+venv/
+env/
+
+# --- Frontend (React/Vite) ---
+node_modules/
+dist/
+.DS_Store
